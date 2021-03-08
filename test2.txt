@@ -1,2 +1,2 @@
-This is the second test file.
+This is the second test file in combination with 2nd commit
 
